@@ -1,0 +1,193 @@
+Movie,Review,Predicted_Sentiment,Rating
+Casablanca,"a masterpiece with deep emotional impact could have been shorter; felt unnecessarily long good cinematography, though the plot could be tighter interesting concept but not for everyone",Neutral,3
+Citizen Kane,brilliant storytelling and pacing the pacing was off and some scenes dragged a decent film with room for improvement some parts felt a bit slow but still enjoyable,Neutral,3
+Gone with the Wind,"incredible soundtrack and immersive atmosphere could have been shorter; felt unnecessarily long a decent film with room for improvement good cinematography, though the plot could be tighter",Neutral,3
+Psycho,absolutely stunning visuals and direction predictable storyline and weak dialogue a decent film with room for improvement brilliant storytelling and pacing,Neutral,3
+Vertigo,"brilliant storytelling and pacing predictable storyline and weak dialogue good cinematography, though the plot could be tighter could have been shorter; felt unnecessarily long",Neutral,3
+Rear Window,"absolutely stunning visuals and direction predictable storyline and weak dialogue some parts felt a bit slow but still enjoyable good cinematography, though the plot could be tighter",Negative,1
+Sunset Boulevard,the acting was phenomenal throughout predictable storyline and weak dialogue a decent film with room for improvement brilliant storytelling and pacing,Neutral,3
+12 Angry Men,absolutely stunning visuals and direction underdeveloped characters made it less engaging had its moments but lacked consistency a decent film with room for improvement,Neutral,3
+On the Waterfront,"a masterpiece with deep emotional impact predictable storyline and weak dialogue a decent film with room for improvement good cinematography, though the plot could be tighter",Neutral,3
+Lawrence of Arabia,incredible soundtrack and immersive atmosphere the pacing was off and some scenes dragged a decent film with room for improvement could have been shorter; felt unnecessarily long,Neutral,3
+Ben-Hur,incredible soundtrack and immersive atmosphere the pacing was off and some scenes dragged interesting concept but not for everyone could have been shorter; felt unnecessarily long,Neutral,3
+Singin' in the Rain,the acting was phenomenal throughout could have been shorter; felt unnecessarily long had its moments but lacked consistency some parts felt a bit slow but still enjoyable,Neutral,3
+The Sound of Music,"brilliant storytelling and pacing overly complex at times, hard to follow had its moments but lacked consistency interesting concept but not for everyone",Neutral,3
+Dr. Strangelove,"the acting was phenomenal throughout underdeveloped characters made it less engaging a decent film with room for improvement good cinematography, though the plot could be tighter",Neutral,3
+To Kill a Mockingbird,absolutely stunning visuals and direction the pacing was off and some scenes dragged interesting concept but not for everyone the acting was phenomenal throughout,Positive,5
+The Bridge on the River Kwai,"brilliant storytelling and pacing the pacing was off and some scenes dragged good cinematography, though the plot could be tighter some parts felt a bit slow but still enjoyable",Neutral,3
+Chinatown,"absolutely stunning visuals and direction overly complex at times, hard to follow interesting concept but not for everyone had its moments but lacked consistency",Neutral,3
+The Apartment,"incredible soundtrack and immersive atmosphere underdeveloped characters made it less engaging had its moments but lacked consistency overly complex at times, hard to follow",Neutral,3
+One Flew Over the Cuckoo's Nest,incredible soundtrack and immersive atmosphere the pacing was off and some scenes dragged interesting concept but not for everyone brilliant storytelling and pacing,Neutral,3
+Taxi Driver,the acting was phenomenal throughout underdeveloped characters made it less engaging interesting concept but not for everyone a masterpiece with deep emotional impact,Positive,4
+Rocky,a masterpiece with deep emotional impact could have been shorter; felt unnecessarily long had its moments but lacked consistency interesting concept but not for everyone,Neutral,3
+Jaws,"a masterpiece with deep emotional impact overly complex at times, hard to follow good cinematography, though the plot could be tighter underdeveloped characters made it less engaging",Neutral,3
+Star Wars: A New Hope,"the acting was phenomenal throughout overly complex at times, hard to follow a decent film with room for improvement the pacing was off and some scenes dragged",Neutral,3
+Close Encounters of the Third Kind,brilliant storytelling and pacing the pacing was off and some scenes dragged a decent film with room for improvement a decent film with room for improvement,Neutral,3
+Apocalypse Now,"incredible soundtrack and immersive atmosphere overly complex at times, hard to follow a decent film with room for improvement some parts felt a bit slow but still enjoyable",Neutral,3
+Alien,"a masterpiece with deep emotional impact the pacing was off and some scenes dragged a decent film with room for improvement overly complex at times, hard to follow",Neutral,3
+Raging Bull,incredible soundtrack and immersive atmosphere predictable storyline and weak dialogue a decent film with room for improvement the pacing was off and some scenes dragged,Negative,2
+The Shining,brilliant storytelling and pacing could have been shorter; felt unnecessarily long interesting concept but not for everyone could have been shorter; felt unnecessarily long,Neutral,3
+Blade Runner,"absolutely stunning visuals and direction the pacing was off and some scenes dragged good cinematography, though the plot could be tighter had its moments but lacked consistency",Neutral,3
+E.T. the Extra-Terrestrial,the acting was phenomenal throughout predictable storyline and weak dialogue some parts felt a bit slow but still enjoyable a masterpiece with deep emotional impact,Neutral,3
+The Terminator,incredible soundtrack and immersive atmosphere underdeveloped characters made it less engaging a decent film with room for improvement the acting was phenomenal throughout,Neutral,3
+Back to the Future,brilliant storytelling and pacing predictable storyline and weak dialogue a decent film with room for improvement brilliant storytelling and pacing,Neutral,3
+Ghostbusters,absolutely stunning visuals and direction underdeveloped characters made it less engaging a decent film with room for improvement absolutely stunning visuals and direction,Neutral,3
+Die Hard,brilliant storytelling and pacing predictable storyline and weak dialogue some parts felt a bit slow but still enjoyable a masterpiece with deep emotional impact,Neutral,3
+Top Gun,a masterpiece with deep emotional impact predictable storyline and weak dialogue interesting concept but not for everyone interesting concept but not for everyone,Neutral,3
+The Breakfast Club,"absolutely stunning visuals and direction the pacing was off and some scenes dragged good cinematography, though the plot could be tighter incredible soundtrack and immersive atmosphere",Neutral,3
+Ferris Bueller's Day Off,absolutely stunning visuals and direction could have been shorter; felt unnecessarily long interesting concept but not for everyone had its moments but lacked consistency,Neutral,3
+The Untouchables,"absolutely stunning visuals and direction could have been shorter; felt unnecessarily long good cinematography, though the plot could be tighter underdeveloped characters made it less engaging",Neutral,3
+Platoon,absolutely stunning visuals and direction predictable storyline and weak dialogue a decent film with room for improvement some parts felt a bit slow but still enjoyable,Negative,2
+Full Metal Jacket,brilliant storytelling and pacing underdeveloped characters made it less engaging had its moments but lacked consistency incredible soundtrack and immersive atmosphere,Neutral,3
+Rain Man,absolutely stunning visuals and direction underdeveloped characters made it less engaging interesting concept but not for everyone the pacing was off and some scenes dragged,Neutral,3
+When Harry Met Sally,"a masterpiece with deep emotional impact overly complex at times, hard to follow interesting concept but not for everyone incredible soundtrack and immersive atmosphere",Neutral,3
+Goodfellas,"a masterpiece with deep emotional impact overly complex at times, hard to follow good cinematography, though the plot could be tighter predictable storyline and weak dialogue",Neutral,3
+The Silence of the Lambs,"brilliant storytelling and pacing the pacing was off and some scenes dragged good cinematography, though the plot could be tighter interesting concept but not for everyone",Neutral,3
+Schindler's List,"a masterpiece with deep emotional impact underdeveloped characters made it less engaging some parts felt a bit slow but still enjoyable overly complex at times, hard to follow",Neutral,3
+Jurassic Park,absolutely stunning visuals and direction predictable storyline and weak dialogue interesting concept but not for everyone some parts felt a bit slow but still enjoyable,Negative,1
+Forrest Gump,incredible soundtrack and immersive atmosphere predictable storyline and weak dialogue a decent film with room for improvement underdeveloped characters made it less engaging,Negative,1
+The Shawshank Redemption,a masterpiece with deep emotional impact predictable storyline and weak dialogue some parts felt a bit slow but still enjoyable a masterpiece with deep emotional impact,Negative,2
+Se7en,the acting was phenomenal throughout the pacing was off and some scenes dragged a decent film with room for improvement predictable storyline and weak dialogue,Neutral,3
+Braveheart,a masterpiece with deep emotional impact predictable storyline and weak dialogue had its moments but lacked consistency the acting was phenomenal throughout,Neutral,3
+The Usual Suspects,"incredible soundtrack and immersive atmosphere overly complex at times, hard to follow interesting concept but not for everyone predictable storyline and weak dialogue",Negative,1
+Heat,"a masterpiece with deep emotional impact overly complex at times, hard to follow good cinematography, though the plot could be tighter had its moments but lacked consistency",Neutral,3
+Titanic,a masterpiece with deep emotional impact the pacing was off and some scenes dragged interesting concept but not for everyone had its moments but lacked consistency,Neutral,3
+Saving Private Ryan,"incredible soundtrack and immersive atmosphere overly complex at times, hard to follow some parts felt a bit slow but still enjoyable a decent film with room for improvement",Neutral,3
+The Truman Show,"absolutely stunning visuals and direction the pacing was off and some scenes dragged a decent film with room for improvement good cinematography, though the plot could be tighter",Neutral,3
+American Beauty,"the acting was phenomenal throughout overly complex at times, hard to follow had its moments but lacked consistency overly complex at times, hard to follow",Neutral,3
+Fight Club,"absolutely stunning visuals and direction could have been shorter; felt unnecessarily long good cinematography, though the plot could be tighter incredible soundtrack and immersive atmosphere",Neutral,3
+The Matrix,brilliant storytelling and pacing predictable storyline and weak dialogue some parts felt a bit slow but still enjoyable predictable storyline and weak dialogue,Negative,2
+Gladiator,the acting was phenomenal throughout could have been shorter; felt unnecessarily long had its moments but lacked consistency underdeveloped characters made it less engaging,Neutral,3
+Memento,absolutely stunning visuals and direction could have been shorter; felt unnecessarily long some parts felt a bit slow but still enjoyable interesting concept but not for everyone,Neutral,3
+Cast Away,incredible soundtrack and immersive atmosphere underdeveloped characters made it less engaging interesting concept but not for everyone could have been shorter; felt unnecessarily long,Neutral,3
+The Sixth Sense,a masterpiece with deep emotional impact predictable storyline and weak dialogue a decent film with room for improvement absolutely stunning visuals and direction,Neutral,3
+Erin Brockovich,the acting was phenomenal throughout could have been shorter; felt unnecessarily long interesting concept but not for everyone incredible soundtrack and immersive atmosphere,Neutral,3
+A Beautiful Mind,"a masterpiece with deep emotional impact the pacing was off and some scenes dragged good cinematography, though the plot could be tighter predictable storyline and weak dialogue",Neutral,3
+Requiem for a Dream,brilliant storytelling and pacing the pacing was off and some scenes dragged a decent film with room for improvement a decent film with room for improvement,Neutral,3
+Almost Famous,"incredible soundtrack and immersive atmosphere predictable storyline and weak dialogue had its moments but lacked consistency overly complex at times, hard to follow",Negative,1
+The Pianist,absolutely stunning visuals and direction could have been shorter; felt unnecessarily long interesting concept but not for everyone underdeveloped characters made it less engaging,Neutral,3
+Catch Me If You Can,"a masterpiece with deep emotional impact the pacing was off and some scenes dragged good cinematography, though the plot could be tighter could have been shorter; felt unnecessarily long",Neutral,3
+Mystic River,a masterpiece with deep emotional impact the pacing was off and some scenes dragged some parts felt a bit slow but still enjoyable brilliant storytelling and pacing,Neutral,3
+Lost in Translation,a masterpiece with deep emotional impact predictable storyline and weak dialogue a decent film with room for improvement interesting concept but not for everyone,Neutral,3
+The Lord of the Rings: The Fellowship of the Ring,brilliant storytelling and pacing could have been shorter; felt unnecessarily long some parts felt a bit slow but still enjoyable a decent film with room for improvement,Neutral,3
+The Lord of the Rings: The Two Towers,the acting was phenomenal throughout underdeveloped characters made it less engaging had its moments but lacked consistency had its moments but lacked consistency,Neutral,3
+The Lord of the Rings: The Return of the King,incredible soundtrack and immersive atmosphere the pacing was off and some scenes dragged a decent film with room for improvement incredible soundtrack and immersive atmosphere,Neutral,3
+Pirates of the Caribbean: The Curse of the Black Pearl,"brilliant storytelling and pacing overly complex at times, hard to follow a decent film with room for improvement a decent film with room for improvement",Neutral,3
+Collateral,brilliant storytelling and pacing could have been shorter; felt unnecessarily long a decent film with room for improvement interesting concept but not for everyone,Neutral,3
+Eternal Sunshine of the Spotless Mind,"absolutely stunning visuals and direction could have been shorter; felt unnecessarily long good cinematography, though the plot could be tighter the pacing was off and some scenes dragged",Neutral,3
+The Aviator,brilliant storytelling and pacing predictable storyline and weak dialogue some parts felt a bit slow but still enjoyable some parts felt a bit slow but still enjoyable,Negative,1
+Crash,absolutely stunning visuals and direction underdeveloped characters made it less engaging a decent film with room for improvement the pacing was off and some scenes dragged,Neutral,3
+Brokeback Mountain,"incredible soundtrack and immersive atmosphere underdeveloped characters made it less engaging interesting concept but not for everyone good cinematography, though the plot could be tighter",Neutral,3
+The Departed,"incredible soundtrack and immersive atmosphere the pacing was off and some scenes dragged good cinematography, though the plot could be tighter absolutely stunning visuals and direction",Neutral,3
+The Prestige,"brilliant storytelling and pacing predictable storyline and weak dialogue good cinematography, though the plot could be tighter incredible soundtrack and immersive atmosphere",Neutral,3
+The Pursuit of Happyness,absolutely stunning visuals and direction predictable storyline and weak dialogue interesting concept but not for everyone brilliant storytelling and pacing,Neutral,3
+No Country for Old Men,absolutely stunning visuals and direction predictable storyline and weak dialogue interesting concept but not for everyone incredible soundtrack and immersive atmosphere,Neutral,3
+There Will Be Blood,a masterpiece with deep emotional impact predictable storyline and weak dialogue had its moments but lacked consistency interesting concept but not for everyone,Neutral,3
+The Dark Knight,absolutely stunning visuals and direction the pacing was off and some scenes dragged a decent film with room for improvement underdeveloped characters made it less engaging,Neutral,3
+Slumdog Millionaire,"incredible soundtrack and immersive atmosphere overly complex at times, hard to follow interesting concept but not for everyone interesting concept but not for everyone",Neutral,3
+Avatar,"incredible soundtrack and immersive atmosphere underdeveloped characters made it less engaging some parts felt a bit slow but still enjoyable overly complex at times, hard to follow",Neutral,3
+Inglourious Basterds,"brilliant storytelling and pacing overly complex at times, hard to follow some parts felt a bit slow but still enjoyable the pacing was off and some scenes dragged",Neutral,3
+The Social Network,a masterpiece with deep emotional impact could have been shorter; felt unnecessarily long had its moments but lacked consistency incredible soundtrack and immersive atmosphere,Neutral,3
+Black Swan,a masterpiece with deep emotional impact underdeveloped characters made it less engaging had its moments but lacked consistency incredible soundtrack and immersive atmosphere,Neutral,3
+The Fighter,the acting was phenomenal throughout could have been shorter; felt unnecessarily long a decent film with room for improvement could have been shorter; felt unnecessarily long,Neutral,3
+Inception,absolutely stunning visuals and direction predictable storyline and weak dialogue had its moments but lacked consistency could have been shorter; felt unnecessarily long,Neutral,3
+The King's Speech,absolutely stunning visuals and direction predictable storyline and weak dialogue some parts felt a bit slow but still enjoyable incredible soundtrack and immersive atmosphere,Negative,2
+Moneyball,"the acting was phenomenal throughout overly complex at times, hard to follow a decent film with room for improvement interesting concept but not for everyone",Neutral,3
+The Artist,absolutely stunning visuals and direction could have been shorter; felt unnecessarily long a decent film with room for improvement predictable storyline and weak dialogue,Neutral,3
+Django Unchained,brilliant storytelling and pacing predictable storyline and weak dialogue some parts felt a bit slow but still enjoyable a decent film with room for improvement,Negative,1
+Argo,a masterpiece with deep emotional impact underdeveloped characters made it less engaging interesting concept but not for everyone the acting was phenomenal throughout,Positive,5
+Gravity,incredible soundtrack and immersive atmosphere predictable storyline and weak dialogue some parts felt a bit slow but still enjoyable could have been shorter; felt unnecessarily long,Negative,1
+12 Years a Slave,the acting was phenomenal throughout the pacing was off and some scenes dragged some parts felt a bit slow but still enjoyable predictable storyline and weak dialogue,Negative,1
+Her,"the acting was phenomenal throughout overly complex at times, hard to follow some parts felt a bit slow but still enjoyable absolutely stunning visuals and direction",Neutral,3
+Whiplash,"the acting was phenomenal throughout overly complex at times, hard to follow interesting concept but not for everyone underdeveloped characters made it less engaging",Neutral,3
+Birdman,"absolutely stunning visuals and direction overly complex at times, hard to follow had its moments but lacked consistency the pacing was off and some scenes dragged",Neutral,3
+The Grand Budapest Hotel,"the acting was phenomenal throughout overly complex at times, hard to follow interesting concept but not for everyone interesting concept but not for everyone",Neutral,3
+Interstellar,a masterpiece with deep emotional impact the pacing was off and some scenes dragged a decent film with room for improvement incredible soundtrack and immersive atmosphere,Neutral,3
+The Imitation Game,a masterpiece with deep emotional impact the pacing was off and some scenes dragged some parts felt a bit slow but still enjoyable a masterpiece with deep emotional impact,Neutral,3
+Spotlight,absolutely stunning visuals and direction underdeveloped characters made it less engaging some parts felt a bit slow but still enjoyable underdeveloped characters made it less engaging,Neutral,3
+The Revenant,"brilliant storytelling and pacing could have been shorter; felt unnecessarily long some parts felt a bit slow but still enjoyable good cinematography, though the plot could be tighter",Neutral,3
+Room,"the acting was phenomenal throughout predictable storyline and weak dialogue interesting concept but not for everyone good cinematography, though the plot could be tighter",Neutral,3
+Mad Max: Fury Road,absolutely stunning visuals and direction predictable storyline and weak dialogue interesting concept but not for everyone could have been shorter; felt unnecessarily long,Neutral,3
+La La Land,"a masterpiece with deep emotional impact overly complex at times, hard to follow some parts felt a bit slow but still enjoyable incredible soundtrack and immersive atmosphere",Neutral,3
+Arrival,"brilliant storytelling and pacing could have been shorter; felt unnecessarily long good cinematography, though the plot could be tighter overly complex at times, hard to follow",Neutral,3
+Moonlight,incredible soundtrack and immersive atmosphere underdeveloped characters made it less engaging had its moments but lacked consistency a masterpiece with deep emotional impact,Neutral,3
+Manchester by the Sea,"brilliant storytelling and pacing overly complex at times, hard to follow had its moments but lacked consistency could have been shorter; felt unnecessarily long",Neutral,3
+Hacksaw Ridge,"brilliant storytelling and pacing overly complex at times, hard to follow some parts felt a bit slow but still enjoyable the acting was phenomenal throughout",Neutral,3
+Get Out,"brilliant storytelling and pacing predictable storyline and weak dialogue had its moments but lacked consistency good cinematography, though the plot could be tighter",Neutral,3
+"Three Billboards Outside Ebbing, Missouri",a masterpiece with deep emotional impact the pacing was off and some scenes dragged a decent film with room for improvement predictable storyline and weak dialogue,Neutral,3
+Dunkirk,a masterpiece with deep emotional impact predictable storyline and weak dialogue some parts felt a bit slow but still enjoyable a decent film with room for improvement,Negative,1
+The Shape of Water,"incredible soundtrack and immersive atmosphere overly complex at times, hard to follow had its moments but lacked consistency underdeveloped characters made it less engaging",Neutral,3
+A Star Is Born,a masterpiece with deep emotional impact could have been shorter; felt unnecessarily long a decent film with room for improvement interesting concept but not for everyone,Neutral,3
+Bohemian Rhapsody,brilliant storytelling and pacing underdeveloped characters made it less engaging a decent film with room for improvement interesting concept but not for everyone,Neutral,3
+1917,brilliant storytelling and pacing underdeveloped characters made it less engaging some parts felt a bit slow but still enjoyable underdeveloped characters made it less engaging,Neutral,3
+Joker,incredible soundtrack and immersive atmosphere underdeveloped characters made it less engaging a decent film with room for improvement incredible soundtrack and immersive atmosphere,Neutral,3
+Once Upon a Time in Hollywood,"a masterpiece with deep emotional impact overly complex at times, hard to follow had its moments but lacked consistency had its moments but lacked consistency",Neutral,3
+Ford v Ferrari,a masterpiece with deep emotional impact predictable storyline and weak dialogue some parts felt a bit slow but still enjoyable incredible soundtrack and immersive atmosphere,Negative,2
+Parasite,"a masterpiece with deep emotional impact overly complex at times, hard to follow good cinematography, though the plot could be tighter absolutely stunning visuals and direction",Positive,4
+Knives Out,brilliant storytelling and pacing predictable storyline and weak dialogue a decent film with room for improvement a decent film with room for improvement,Neutral,3
+Jojo Rabbit,"incredible soundtrack and immersive atmosphere could have been shorter; felt unnecessarily long good cinematography, though the plot could be tighter could have been shorter; felt unnecessarily long",Neutral,3
+Tenet,"absolutely stunning visuals and direction overly complex at times, hard to follow some parts felt a bit slow but still enjoyable predictable storyline and weak dialogue",Negative,2
+Soul,"absolutely stunning visuals and direction the pacing was off and some scenes dragged had its moments but lacked consistency good cinematography, though the plot could be tighter",Neutral,3
+Nomadland,the acting was phenomenal throughout underdeveloped characters made it less engaging interesting concept but not for everyone a decent film with room for improvement,Neutral,3
+The Father,a masterpiece with deep emotional impact predictable storyline and weak dialogue some parts felt a bit slow but still enjoyable brilliant storytelling and pacing,Neutral,3
+Promising Young Woman,"brilliant storytelling and pacing overly complex at times, hard to follow good cinematography, though the plot could be tighter the pacing was off and some scenes dragged",Neutral,3
+Dune,"incredible soundtrack and immersive atmosphere overly complex at times, hard to follow some parts felt a bit slow but still enjoyable interesting concept but not for everyone",Neutral,3
+Don't Look Up,incredible soundtrack and immersive atmosphere the pacing was off and some scenes dragged some parts felt a bit slow but still enjoyable a masterpiece with deep emotional impact,Neutral,3
+The Power of the Dog,incredible soundtrack and immersive atmosphere could have been shorter; felt unnecessarily long a decent film with room for improvement absolutely stunning visuals and direction,Neutral,3
+Everything Everywhere All at Once,"a masterpiece with deep emotional impact underdeveloped characters made it less engaging good cinematography, though the plot could be tighter some parts felt a bit slow but still enjoyable",Neutral,3
+The Whale,the acting was phenomenal throughout predictable storyline and weak dialogue a decent film with room for improvement brilliant storytelling and pacing,Neutral,3
+Top Gun: Maverick,"absolutely stunning visuals and direction underdeveloped characters made it less engaging good cinematography, though the plot could be tighter had its moments but lacked consistency",Neutral,3
+Oppenheimer,absolutely stunning visuals and direction predictable storyline and weak dialogue interesting concept but not for everyone underdeveloped characters made it less engaging,Neutral,3
+Barbie,"the acting was phenomenal throughout could have been shorter; felt unnecessarily long good cinematography, though the plot could be tighter interesting concept but not for everyone",Neutral,3
+Poor Things,"incredible soundtrack and immersive atmosphere underdeveloped characters made it less engaging good cinematography, though the plot could be tighter overly complex at times, hard to follow",Neutral,3
+Killers of the Flower Moon,"incredible soundtrack and immersive atmosphere overly complex at times, hard to follow had its moments but lacked consistency had its moments but lacked consistency",Neutral,3
+The Zone of Interest,"the acting was phenomenal throughout underdeveloped characters made it less engaging a decent film with room for improvement good cinematography, though the plot could be tighter",Neutral,3
+The Batman,"brilliant storytelling and pacing the pacing was off and some scenes dragged had its moments but lacked consistency good cinematography, though the plot could be tighter",Neutral,3
+Air,absolutely stunning visuals and direction could have been shorter; felt unnecessarily long had its moments but lacked consistency absolutely stunning visuals and direction,Neutral,3
+The Holdovers,"a masterpiece with deep emotional impact overly complex at times, hard to follow good cinematography, though the plot could be tighter a decent film with room for improvement",Neutral,3
+Past Lives,"absolutely stunning visuals and direction overly complex at times, hard to follow had its moments but lacked consistency a decent film with room for improvement",Neutral,3
+Saltburn,incredible soundtrack and immersive atmosphere underdeveloped characters made it less engaging had its moments but lacked consistency could have been shorter; felt unnecessarily long,Neutral,3
+Napoleon,the acting was phenomenal throughout underdeveloped characters made it less engaging some parts felt a bit slow but still enjoyable brilliant storytelling and pacing,Neutral,3
+The Killer,"a masterpiece with deep emotional impact could have been shorter; felt unnecessarily long some parts felt a bit slow but still enjoyable overly complex at times, hard to follow",Neutral,3
+Maestro,"a masterpiece with deep emotional impact overly complex at times, hard to follow good cinematography, though the plot could be tighter the acting was phenomenal throughout",Positive,4
+The Iron Claw,absolutely stunning visuals and direction the pacing was off and some scenes dragged interesting concept but not for everyone a decent film with room for improvement,Neutral,3
+Civil War,"absolutely stunning visuals and direction underdeveloped characters made it less engaging a decent film with room for improvement good cinematography, though the plot could be tighter",Neutral,3
+Challengers,"brilliant storytelling and pacing could have been shorter; felt unnecessarily long a decent film with room for improvement overly complex at times, hard to follow",Neutral,3
+Twisters,"incredible soundtrack and immersive atmosphere overly complex at times, hard to follow good cinematography, though the plot could be tighter a masterpiece with deep emotional impact",Neutral,3
+Furiosa: A Mad Max Saga,"the acting was phenomenal throughout overly complex at times, hard to follow some parts felt a bit slow but still enjoyable the pacing was off and some scenes dragged",Neutral,3
+A Quiet Place: Day One,brilliant storytelling and pacing the pacing was off and some scenes dragged a decent film with room for improvement absolutely stunning visuals and direction,Positive,5
+Deadpool & Wolverine,"the acting was phenomenal throughout overly complex at times, hard to follow had its moments but lacked consistency incredible soundtrack and immersive atmosphere",Neutral,3
+The Fall Guy,incredible soundtrack and immersive atmosphere underdeveloped characters made it less engaging some parts felt a bit slow but still enjoyable could have been shorter; felt unnecessarily long,Neutral,3
+Damsel,"brilliant storytelling and pacing the pacing was off and some scenes dragged some parts felt a bit slow but still enjoyable overly complex at times, hard to follow",Neutral,3
+Argylle,"the acting was phenomenal throughout predictable storyline and weak dialogue good cinematography, though the plot could be tighter a masterpiece with deep emotional impact",Neutral,3
+Civil War,brilliant storytelling and pacing predictable storyline and weak dialogue some parts felt a bit slow but still enjoyable a decent film with room for improvement,Negative,2
+Beetlejuice Beetlejuice,brilliant storytelling and pacing could have been shorter; felt unnecessarily long had its moments but lacked consistency predictable storyline and weak dialogue,Neutral,3
+Smile,"absolutely stunning visuals and direction could have been shorter; felt unnecessarily long had its moments but lacked consistency overly complex at times, hard to follow",Neutral,3
+Nope,"absolutely stunning visuals and direction overly complex at times, hard to follow had its moments but lacked consistency some parts felt a bit slow but still enjoyable",Neutral,3
+Us,"absolutely stunning visuals and direction overly complex at times, hard to follow interesting concept but not for everyone the pacing was off and some scenes dragged",Neutral,3
+Midsommar,"brilliant storytelling and pacing overly complex at times, hard to follow had its moments but lacked consistency the pacing was off and some scenes dragged",Neutral,3
+Hereditary,a masterpiece with deep emotional impact underdeveloped characters made it less engaging a decent film with room for improvement had its moments but lacked consistency,Neutral,3
+Get Out,the acting was phenomenal throughout could have been shorter; felt unnecessarily long interesting concept but not for everyone some parts felt a bit slow but still enjoyable,Neutral,3
+The Menu,brilliant storytelling and pacing could have been shorter; felt unnecessarily long a decent film with room for improvement a decent film with room for improvement,Neutral,3
+The Northman,"a masterpiece with deep emotional impact the pacing was off and some scenes dragged good cinematography, though the plot could be tighter had its moments but lacked consistency",Neutral,3
+The Lighthouse,"the acting was phenomenal throughout the pacing was off and some scenes dragged good cinematography, though the plot could be tighter brilliant storytelling and pacing",Positive,5
+Ex Machina,the acting was phenomenal throughout predictable storyline and weak dialogue a decent film with room for improvement underdeveloped characters made it less engaging,Neutral,3
+Gone Girl,"the acting was phenomenal throughout overly complex at times, hard to follow some parts felt a bit slow but still enjoyable a masterpiece with deep emotional impact",Neutral,3
+The Martian,a masterpiece with deep emotional impact the pacing was off and some scenes dragged had its moments but lacked consistency the pacing was off and some scenes dragged,Neutral,3
+Guardians of the Galaxy,absolutely stunning visuals and direction the pacing was off and some scenes dragged a decent film with room for improvement could have been shorter; felt unnecessarily long,Neutral,3
+Doctor Strange,brilliant storytelling and pacing could have been shorter; felt unnecessarily long some parts felt a bit slow but still enjoyable incredible soundtrack and immersive atmosphere,Neutral,3
+Iron Man,"the acting was phenomenal throughout overly complex at times, hard to follow some parts felt a bit slow but still enjoyable a decent film with room for improvement",Neutral,3
+Captain America: The First Avenger,"absolutely stunning visuals and direction the pacing was off and some scenes dragged a decent film with room for improvement good cinematography, though the plot could be tighter",Neutral,3
+Thor,the acting was phenomenal throughout predictable storyline and weak dialogue some parts felt a bit slow but still enjoyable brilliant storytelling and pacing,Neutral,3
+Black Panther,"a masterpiece with deep emotional impact the pacing was off and some scenes dragged good cinematography, though the plot could be tighter could have been shorter; felt unnecessarily long",Neutral,3
+Avengers: Endgame,brilliant storytelling and pacing the pacing was off and some scenes dragged had its moments but lacked consistency incredible soundtrack and immersive atmosphere,Neutral,3
+Spider-Man: Homecoming,"absolutely stunning visuals and direction overly complex at times, hard to follow some parts felt a bit slow but still enjoyable predictable storyline and weak dialogue",Negative,1
+Ant-Man,"the acting was phenomenal throughout could have been shorter; felt unnecessarily long good cinematography, though the plot could be tighter the acting was phenomenal throughout",Neutral,3
+Guardians of the Galaxy Vol. 2,absolutely stunning visuals and direction underdeveloped characters made it less engaging had its moments but lacked consistency the acting was phenomenal throughout,Positive,4
+Logan,"brilliant storytelling and pacing predictable storyline and weak dialogue good cinematography, though the plot could be tighter could have been shorter; felt unnecessarily long",Neutral,3
+Deadpool,the acting was phenomenal throughout the pacing was off and some scenes dragged interesting concept but not for everyone predictable storyline and weak dialogue,Neutral,3
+X-Men: First Class,brilliant storytelling and pacing predictable storyline and weak dialogue some parts felt a bit slow but still enjoyable predictable storyline and weak dialogue,Negative,1
+Man of Steel,"brilliant storytelling and pacing underdeveloped characters made it less engaging good cinematography, though the plot could be tighter overly complex at times, hard to follow",Neutral,3
+Wonder Woman,"incredible soundtrack and immersive atmosphere could have been shorter; felt unnecessarily long a decent film with room for improvement overly complex at times, hard to follow",Neutral,3
+Aquaman,"absolutely stunning visuals and direction overly complex at times, hard to follow some parts felt a bit slow but still enjoyable underdeveloped characters made it less engaging",Neutral,3
+Shazam!,"brilliant storytelling and pacing overly complex at times, hard to follow had its moments but lacked consistency underdeveloped characters made it less engaging",Neutral,3
